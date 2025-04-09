@@ -98,5 +98,6 @@
 
 결과 CSV 저장 (옵션)
 
+![image](https://github.com/user-attachments/assets/55c67390-3702-468a-92e2-d8590a9e7703)
 ![image](https://github.com/user-attachments/assets/7f76e8ca-f000-4735-b371-4352d2c96947)
 ![image](https://github.com/user-attachments/assets/7bc3c511-22a7-4b06-accc-25292dd0b290)
