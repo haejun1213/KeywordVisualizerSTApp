@@ -3,8 +3,8 @@ from collections import Counter
 import json
 
 def searchNaverNews(keyword, start, display):
-    client_id = "cuaRPIg29iVrB8M2SMM0"
-    client_secret = "Iz9cqIka89"
+    client_id = ""
+    client_secret = ""
     
     encText = urllib.parse.quote(keyword)
     url = "https://openapi.naver.com/v1/search/news?query=" + encText
