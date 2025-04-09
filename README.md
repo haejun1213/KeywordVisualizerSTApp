@@ -7,13 +7,13 @@
 ## 프로젝트 구조
 
 .
-├── lib/
-│   ├── myTextMining.py         # 텍스트 마이닝 유틸 함수 모음
-│   ├── NaverNewsCrawler.py     # 네이버 뉴스 API 크롤러
-│   └── STViualizer.py          # Streamlit 시각화 함수
-├── KeywordVisualizerSTApp.py   # 메인 Streamlit 앱
-├── data/                       # 수집한 뉴스 CSV 저장 폴더
-└── README.md                   # 프로젝트 설명
+├── lib/  
+│   ├── myTextMining.py         # 텍스트 마이닝 유틸 함수 모음  
+│   ├── NaverNewsCrawler.py     # 네이버 뉴스 API 크롤러  
+│   └── STViualizer.py          # Streamlit 시각화 함수  
+├── KeywordVisualizerSTApp.py   # 메인 Streamlit 앱  
+├── data/                       # 수집한 뉴스 CSV 저장 폴더  
+└── README.md                   # 프로젝트 설명  
 
 ---
 
